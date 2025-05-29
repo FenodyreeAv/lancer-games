@@ -1,0 +1,94 @@
+{
+  "title": "The Doomsday Express",
+  "id": "lancer-games",
+  "system": "lancer",
+  "joinTheme": "default",
+  "coreVersion": "12.343",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343"
+  },
+  "systemVersion": "2.8.1",
+  "lastPlayed": "Sun May 25 2025 19:42:02 GMT+0100 (British Summer Time)",
+  "packs": [
+    {
+      "name": "pilot-items",
+      "type": "Item",
+      "label": "lancer.compendium.pilot-items",
+      "banner": "./systems/lancer/assets/banners/pilot-items.svg",
+      "system": "lancer",
+      "path": "packs/pilot-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "player-actors",
+      "type": "Actor",
+      "label": "lancer.compendium.player-actors",
+      "banner": "./systems/lancer/assets/banners/player-actors.svg",
+      "system": "lancer",
+      "path": "packs/player-actors",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "mech-items",
+      "type": "Item",
+      "label": "lancer.compendium.mech-items",
+      "banner": "./systems/lancer/assets/banners/mech-items.svg",
+      "system": "lancer",
+      "path": "packs/mech-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "npc-actors",
+      "type": "Actor",
+      "label": "lancer.compendium.npc-actors",
+      "banner": "./systems/lancer/assets/banners/npc-actors.svg",
+      "system": "lancer",
+      "path": "packs/npc-actors",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "npc-items",
+      "type": "Item",
+      "label": "lancer.compendium.npc-items",
+      "banner": "./systems/lancer/assets/banners/npc-items.svg",
+      "system": "lancer",
+      "path": "packs/npc-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "status-items",
+      "type": "Item",
+      "label": "lancer.compendium.status-items",
+      "banner": "./systems/lancer/assets/banners/status-items.svg",
+      "system": "lancer",
+      "path": "packs/status-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "playtime": 426868
+}
