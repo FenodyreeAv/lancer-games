@@ -1,5 +1,1 @@
-2025/06/01-11:10:33.292 2fb4 Log #148: 0 ops saved to Table #151 OK
-2025/06/01-11:10:33.293 2fb4 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/messages/000148.log: OK
-2025/06/01-11:10:33.296 2fb4 Table #150: 1188 entries OK
-2025/06/01-11:10:33.298 2fb4 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/messages/MANIFEST-000146: OK
-2025/06/01-11:10:33.300 2fb4 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/messages; recovered 1 files; 986846 bytes. Some data may have been lost. ****
+2025/06/01-11:10:33.307 2fb4 Delete type=3 #1
