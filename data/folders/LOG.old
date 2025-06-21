@@ -1,3 +1,7 @@
-2025/06/07-20:05:37.086 2fcc Recovering log #327
-2025/06/07-20:05:37.090 2fcc Delete type=0 #327
-2025/06/07-20:05:37.090 2fcc Delete type=3 #325
+2025/06/08-05:40:25.630 42e0 Recovering log #331
+2025/06/08-05:40:25.634 42e0 Delete type=0 #331
+2025/06/08-05:40:25.634 42e0 Delete type=3 #330
+2025/06/08-17:52:29.105 2a88 Level-0 table #335: started
+2025/06/08-17:52:29.106 2a88 Level-0 table #335: 0 bytes OK
+2025/06/08-17:52:29.107 2a88 Delete type=0 #333
+2025/06/08-17:52:29.113 2a88 Manual compaction at level-0 from '!folders!16hiPETj00r23mbJ' @ 72057594037927935 : 1 .. '!folders!yvZb3cqT0GVHpcTS' @ 0 : 0; will stop at (end)
