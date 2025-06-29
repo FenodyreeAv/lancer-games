@@ -9,7 +9,7 @@
     "verified": "12.343"
   },
   "systemVersion": "2.10.3",
-  "lastPlayed": "Sat Jun 28 2025 10:01:50 GMT+0200 (Central European Summer Time)",
+  "lastPlayed": "Sun Jun 29 2025 12:09:27 GMT+0200 (Central European Summer Time)",
   "packs": [
     {
       "name": "pilot-items",
@@ -90,5 +90,5 @@
       "flags": {}
     }
   ],
-  "playtime": 553581
+  "playtime": 557301
 }
