@@ -1,7 +1,4 @@
-2025/06/29-17:48:55.910 510 Recovering log #341
-2025/06/29-17:48:55.914 510 Delete type=0 #341
-2025/06/29-17:48:55.914 510 Delete type=3 #340
-2025/06/29-17:50:40.089 3758 Level-0 table #345: started
-2025/06/29-17:50:40.089 3758 Level-0 table #345: 0 bytes OK
-2025/06/29-17:50:40.091 3758 Delete type=0 #343
-2025/06/29-17:50:40.096 3758 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/07/06-12:22:41.776 568 Log #378: 0 ops saved to Table #379 OK
+2025/07/06-12:22:41.776 568 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/cards/000378.log: OK
+2025/07/06-12:22:41.778 568 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/cards/MANIFEST-000376: OK
+2025/07/06-12:22:41.780 568 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****

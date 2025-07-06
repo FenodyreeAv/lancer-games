@@ -1,16 +1,5 @@
-2025/06/29-17:48:56.153 c90 Recovering log #377
-2025/06/29-17:48:56.153 c90 Level-0 table #379: started
-2025/06/29-17:48:56.159 c90 Level-0 table #379: 3825 bytes OK
-2025/06/29-17:48:56.164 c90 Delete type=0 #377
-2025/06/29-17:48:56.164 c90 Delete type=3 #376
-2025/06/29-17:50:40.187 3758 Level-0 table #382: started
-2025/06/29-17:50:40.187 3758 Level-0 table #382: 0 bytes OK
-2025/06/29-17:50:40.189 3758 Delete type=0 #380
-2025/06/29-17:50:40.245 3758 Manual compaction at level-0 from '!users!02KJJeoVrPep4Uam' @ 72057594037927935 : 1 .. '!users!sifzoBBKGyYVIsPK' @ 0 : 0; will stop at '!users!DEgP96KnkMaXvMQG' @ 141 : 1
-2025/06/29-17:50:40.245 3758 Compacting 2@0 + 0@1 files
-2025/06/29-17:50:40.247 3758 Generated table #383@0: 11 keys, 8768 bytes
-2025/06/29-17:50:40.247 3758 Compacted 2@0 + 0@1 files => 8768 bytes
-2025/06/29-17:50:40.249 3758 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/29-17:50:40.249 3758 Delete type=2 #371
-2025/06/29-17:50:40.249 3758 Delete type=2 #379
-2025/06/29-17:50:40.249 3758 Manual compaction at level-0 from '!users!DEgP96KnkMaXvMQG' @ 141 : 1 .. '!users!sifzoBBKGyYVIsPK' @ 0 : 0; will stop at (end)
+2025/07/06-12:22:42.005 6ac0 Log #418: 0 ops saved to Table #419 OK
+2025/07/06-12:22:42.005 6ac0 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/users/000418.log: OK
+2025/07/06-12:22:42.005 6ac0 Table #389: 11 entries OK
+2025/07/06-12:22:42.007 6ac0 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/users/MANIFEST-000416: OK
+2025/07/06-12:22:42.009 6ac0 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/users; recovered 1 files; 8768 bytes. Some data may have been lost. ****

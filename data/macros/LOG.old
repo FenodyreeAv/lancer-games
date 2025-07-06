@@ -1,13 +1,5 @@
-2025/06/29-17:48:56.054 510 Recovering log #361
-2025/06/29-17:48:56.058 510 Delete type=0 #361
-2025/06/29-17:48:56.058 510 Delete type=3 #360
-2025/06/29-17:50:40.158 3758 Level-0 table #365: started
-2025/06/29-17:50:40.158 3758 Level-0 table #365: 0 bytes OK
-2025/06/29-17:50:40.159 3758 Delete type=0 #363
-2025/06/29-17:50:40.168 3758 Manual compaction at level-0 from '!macros!0hwKtUC6QhNIjVTj' @ 72057594037927935 : 1 .. '!macros!zXzpXqmXqLgPi772' @ 0 : 0; will stop at '!macros!zXzpXqmXqLgPi772' @ 60 : 1
-2025/06/29-17:50:40.168 3758 Compacting 1@0 + 0@1 files
-2025/06/29-17:50:40.170 3758 Generated table #366@0: 42 keys, 77929 bytes
-2025/06/29-17:50:40.170 3758 Compacted 1@0 + 0@1 files => 77929 bytes
-2025/06/29-17:50:40.172 3758 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/29-17:50:40.172 3758 Delete type=2 #349
-2025/06/29-17:50:40.172 3758 Manual compaction at level-0 from '!macros!zXzpXqmXqLgPi772' @ 60 : 1 .. '!macros!zXzpXqmXqLgPi772' @ 0 : 0; will stop at (end)
+2025/07/06-12:22:41.907 24b8 Log #401: 0 ops saved to Table #402 OK
+2025/07/06-12:22:41.907 24b8 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/macros/000401.log: OK
+2025/07/06-12:22:41.907 24b8 Table #372: 42 entries OK
+2025/07/06-12:22:41.910 24b8 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/macros/MANIFEST-000399: OK
+2025/07/06-12:22:41.913 24b8 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/macros; recovered 1 files; 77929 bytes. Some data may have been lost. ****

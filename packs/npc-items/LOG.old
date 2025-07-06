@@ -1,13 +1,5 @@
-2025/06/29-17:48:56.411 510 Recovering log #366
-2025/06/29-17:48:56.416 510 Delete type=0 #366
-2025/06/29-17:48:56.416 510 Delete type=3 #365
-2025/06/29-17:50:40.047 3758 Level-0 table #370: started
-2025/06/29-17:50:40.047 3758 Level-0 table #370: 0 bytes OK
-2025/06/29-17:50:40.048 3758 Delete type=0 #368
-2025/06/29-17:50:40.054 3758 Manual compaction at level-0 from '!folders!Jed4dinpe3luduMk' @ 72057594037927935 : 1 .. '!items!zxTMElSjpKE1dVfm' @ 0 : 0; will stop at '!items!zxTMElSjpKE1dVfm' @ 13625 : 1
-2025/06/29-17:50:40.054 3758 Compacting 1@0 + 0@1 files
-2025/06/29-17:50:40.065 3758 Generated table #371@0: 1101 keys, 611428 bytes
-2025/06/29-17:50:40.065 3758 Compacted 1@0 + 0@1 files => 611428 bytes
-2025/06/29-17:50:40.067 3758 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/29-17:50:40.067 3758 Delete type=2 #354
-2025/06/29-17:50:40.074 3758 Manual compaction at level-0 from '!items!zxTMElSjpKE1dVfm' @ 13625 : 1 .. '!items!zxTMElSjpKE1dVfm' @ 0 : 0; will stop at (end)
+2025/07/06-12:22:42.282 5e34 Log #406: 0 ops saved to Table #407 OK
+2025/07/06-12:22:42.282 5e34 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-items/000406.log: OK
+2025/07/06-12:22:42.284 5e34 Table #377: 1101 entries OK
+2025/07/06-12:22:42.286 5e34 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-items/MANIFEST-000404: OK
+2025/07/06-12:22:42.289 5e34 **** Repaired leveldb D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-items; recovered 1 files; 611428 bytes. Some data may have been lost. ****

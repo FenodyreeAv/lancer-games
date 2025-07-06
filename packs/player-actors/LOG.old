@@ -1,13 +1,5 @@
-2025/06/29-17:48:56.365 c90 Recovering log #358
-2025/06/29-17:48:56.369 c90 Delete type=0 #358
-2025/06/29-17:48:56.369 c90 Delete type=3 #357
-2025/06/29-17:50:40.008 3758 Level-0 table #362: started
-2025/06/29-17:50:40.008 3758 Level-0 table #362: 0 bytes OK
-2025/06/29-17:50:40.010 3758 Delete type=0 #360
-2025/06/29-17:50:40.026 3758 Manual compaction at level-0 from '!actors!2EjgfqjShlScKV7R' @ 72057594037927935 : 1 .. '!folders!E6bUvHJklKi1ubo9' @ 0 : 0; will stop at '!folders!E6bUvHJklKi1ubo9' @ 1 : 1
-2025/06/29-17:50:40.026 3758 Compacting 1@0 + 0@1 files
-2025/06/29-17:50:40.028 3758 Generated table #363@0: 54 keys, 63109 bytes
-2025/06/29-17:50:40.028 3758 Compacted 1@0 + 0@1 files => 63109 bytes
-2025/06/29-17:50:40.030 3758 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/06/29-17:50:40.030 3758 Delete type=2 #346
-2025/06/29-17:50:40.046 3758 Manual compaction at level-0 from '!folders!E6bUvHJklKi1ubo9' @ 1 : 1 .. '!folders!E6bUvHJklKi1ubo9' @ 0 : 0; will stop at (end)
+2025/07/06-12:22:42.201 24b8 Log #398: 0 ops saved to Table #399 OK
+2025/07/06-12:22:42.202 24b8 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\player-actors/000398.log: OK
+2025/07/06-12:22:42.202 24b8 Table #369: 54 entries OK
+2025/07/06-12:22:42.205 24b8 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\player-actors/MANIFEST-000396: OK
+2025/07/06-12:22:42.208 24b8 **** Repaired leveldb D:\FoundryVTT\Data\worlds\lancer-games\packs\player-actors; recovered 1 files; 63109 bytes. Some data may have been lost. ****
