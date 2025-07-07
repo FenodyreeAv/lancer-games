@@ -1,5 +1,1 @@
-2025/07/06-12:22:41.818 568 Log #437: 0 ops saved to Table #438 OK
-2025/07/06-12:22:41.819 568 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/combats/000437.log: OK
-2025/07/06-12:22:41.819 568 Table #422: 61 entries OK
-2025/07/06-12:22:41.821 568 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/combats/MANIFEST-000435: OK
-2025/07/06-12:22:41.823 568 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/combats; recovered 1 files; 12884 bytes. Some data may have been lost. ****
+2025/07/06-12:22:41.832 568 Delete type=3 #1

@@ -1,5 +1,1 @@
-2025/07/06-12:22:42.303 5e34 Log #398: 0 ops saved to Table #399 OK
-2025/07/06-12:22:42.304 5e34 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\status-items/000398.log: OK
-2025/07/06-12:22:42.304 5e34 Table #369: 17 entries OK
-2025/07/06-12:22:42.306 5e34 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\status-items/MANIFEST-000396: OK
-2025/07/06-12:22:42.308 5e34 **** Repaired leveldb D:\FoundryVTT\Data\worlds\lancer-games\packs\status-items; recovered 1 files; 6338 bytes. Some data may have been lost. ****
+2025/07/06-12:22:42.316 5e34 Delete type=3 #1

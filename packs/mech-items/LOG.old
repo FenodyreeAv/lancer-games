@@ -1,5 +1,1 @@
-2025/07/06-12:22:42.218 6ac0 Log #400: 0 ops saved to Table #401 OK
-2025/07/06-12:22:42.218 6ac0 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\mech-items/000400.log: OK
-2025/07/06-12:22:42.219 6ac0 Table #371: 403 entries OK
-2025/07/06-12:22:42.221 6ac0 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\mech-items/MANIFEST-000398: OK
-2025/07/06-12:22:42.223 6ac0 **** Repaired leveldb D:\FoundryVTT\Data\worlds\lancer-games\packs\mech-items; recovered 1 files; 543902 bytes. Some data may have been lost. ****
+2025/07/06-12:22:42.229 6ac0 Delete type=3 #1

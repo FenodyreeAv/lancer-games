@@ -1,5 +1,1 @@
-2025/07/06-12:22:41.836 6ac0 Log #412: 0 ops saved to Table #413 OK
-2025/07/06-12:22:41.836 6ac0 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/fog/000412.log: OK
-2025/07/06-12:22:41.839 6ac0 Table #383: 32 entries OK
-2025/07/06-12:22:41.841 6ac0 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/fog/MANIFEST-000410: OK
-2025/07/06-12:22:41.844 6ac0 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/fog; recovered 1 files; 1349373 bytes. Some data may have been lost. ****
+2025/07/06-12:22:41.850 6ac0 Delete type=3 #1

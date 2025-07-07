@@ -1,5 +1,1 @@
-2025/07/06-12:22:41.907 24b8 Log #401: 0 ops saved to Table #402 OK
-2025/07/06-12:22:41.907 24b8 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/macros/000401.log: OK
-2025/07/06-12:22:41.907 24b8 Table #372: 42 entries OK
-2025/07/06-12:22:41.910 24b8 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/macros/MANIFEST-000399: OK
-2025/07/06-12:22:41.913 24b8 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/macros; recovered 1 files; 77929 bytes. Some data may have been lost. ****
+2025/07/06-12:22:41.919 24b8 Delete type=3 #1
