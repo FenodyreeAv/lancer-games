@@ -1,8 +1,5 @@
-2025/07/06-12:22:41.974 6ac0 Delete type=3 #1
-2025/07/06-16:22:07.898 6bc4 Level-0 table #648: started
-2025/07/06-16:22:07.909 6bc4 Level-0 table #648: 874984 bytes OK
-2025/07/06-16:22:07.911 6bc4 Delete type=0 #646
-2025/07/06-16:44:14.109 6bc4 Compacting 2@0 + 0@1 files
-2025/07/06-16:44:14.122 6bc4 Generated table #649@0: 1650 keys, 635516 bytes
-2025/07/06-16:44:14.122 6bc4 Compacted 2@0 + 0@1 files => 635516 bytes
-2025/07/06-16:44:14.124 6bc4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/07/13-12:34:49.932 2fdc Log #682: 0 ops saved to Table #685 OK
+2025/07/13-12:34:49.933 2fdc Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/scenes/000682.log: OK
+2025/07/13-12:34:49.935 2fdc Table #684: 1703 entries OK
+2025/07/13-12:34:49.937 2fdc Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/scenes/MANIFEST-000680: OK
+2025/07/13-12:34:49.939 2fdc **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/scenes; recovered 1 files; 652937 bytes. Some data may have been lost. ****

@@ -1,1 +1,5 @@
-2025/07/06-12:22:42.015 6ac0 Delete type=3 #1
+2025/07/13-12:34:49.979 2fdc Log #446: 0 ops saved to Table #447 OK
+2025/07/13-12:34:49.980 2fdc Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/users/000446.log: OK
+2025/07/13-12:34:49.980 2fdc Table #427: 11 entries OK
+2025/07/13-12:34:49.982 2fdc Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/users/MANIFEST-000444: OK
+2025/07/13-12:34:49.984 2fdc **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/users; recovered 1 files; 8768 bytes. Some data may have been lost. ****
