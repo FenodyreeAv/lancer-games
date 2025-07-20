@@ -1,5 +1,1 @@
-2025/07/13-12:34:50.161 30d8 Log #428: 0 ops saved to Table #429 OK
-2025/07/13-12:34:50.162 30d8 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\pilot-items/000428.log: OK
-2025/07/13-12:34:50.163 30d8 Table #409: 268 entries OK
-2025/07/13-12:34:50.165 30d8 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\pilot-items/MANIFEST-000426: OK
-2025/07/13-12:34:50.167 30d8 **** Repaired leveldb D:\FoundryVTT\Data\worlds\lancer-games\packs\pilot-items; recovered 1 files; 232470 bytes. Some data may have been lost. ****
+2025/07/13-12:34:50.174 30d8 Delete type=3 #1

@@ -1,4 +1,1 @@
-2025/07/13-12:34:49.897 30d8 Log #405: 0 ops saved to Table #406 OK
-2025/07/13-12:34:49.897 30d8 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/playlists/000405.log: OK
-2025/07/13-12:34:49.899 30d8 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/playlists/MANIFEST-000403: OK
-2025/07/13-12:34:49.901 30d8 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/07/13-12:34:49.906 30d8 Delete type=3 #1
