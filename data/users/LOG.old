@@ -1,5 +1,1 @@
-2025/07/27-12:19:43.170 5eec Log #474: 0 ops saved to Table #475 OK
-2025/07/27-12:19:43.171 5eec Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/users/000474.log: OK
-2025/07/27-12:19:43.171 5eec Table #455: 11 entries OK
-2025/07/27-12:19:43.173 5eec Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/users/MANIFEST-000472: OK
-2025/07/27-12:19:43.176 5eec **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/users; recovered 1 files; 8761 bytes. Some data may have been lost. ****
+2025/07/27-12:19:43.186 5eec Delete type=3 #1

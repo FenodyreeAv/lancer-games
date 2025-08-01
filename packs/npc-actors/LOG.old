@@ -1,5 +1,1 @@
-2025/07/27-12:19:43.661 49ec Log #462: 0 ops saved to Table #465 OK
-2025/07/27-12:19:43.661 49ec Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-actors/000462.log: OK
-2025/07/27-12:19:43.662 49ec Table #464: 444 entries OK
-2025/07/27-12:19:43.665 49ec Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-actors/MANIFEST-000460: OK
-2025/07/27-12:19:43.669 49ec **** Repaired leveldb D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-actors; recovered 1 files; 364220 bytes. Some data may have been lost. ****
+2025/07/27-12:19:43.677 49ec Delete type=3 #1
