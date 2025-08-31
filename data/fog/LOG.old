@@ -1,11 +1,3 @@
-2025/08/24-00:45:51.783 67c Delete type=3 #1
-2025/08/24-00:45:56.472 3430 Level-0 table #526: started
-2025/08/24-00:45:56.472 3430 Level-0 table #526: 0 bytes OK
-2025/08/24-00:45:56.473 3430 Delete type=0 #524
-2025/08/24-00:45:56.484 3430 Manual compaction at level-0 from '!fog!10loxWPuRtsXeCck' @ 72057594037927935 : 1 .. '!fog!xlR75iKUnylXNtX9' @ 0 : 0; will stop at '!fog!xlR75iKUnylXNtX9' @ 186 : 1
-2025/08/24-00:45:56.484 3430 Compacting 1@0 + 0@1 files
-2025/08/24-00:45:56.530 3430 Generated table #527@0: 32 keys, 1349373 bytes
-2025/08/24-00:45:56.530 3430 Compacted 1@0 + 0@1 files => 1349373 bytes
-2025/08/24-00:45:56.532 3430 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/24-00:45:56.532 3430 Delete type=2 #515
-2025/08/24-00:45:56.541 3430 Manual compaction at level-0 from '!fog!xlR75iKUnylXNtX9' @ 186 : 1 .. '!fog!xlR75iKUnylXNtX9' @ 0 : 0; will stop at (end)
+2025/08/24-00:46:14.099 67c Recovering log #525
+2025/08/24-00:46:14.103 67c Delete type=0 #525
+2025/08/24-00:46:14.103 67c Delete type=3 #523
