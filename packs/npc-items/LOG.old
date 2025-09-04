@@ -1,3 +1,5 @@
-2025/08/24-00:46:14.429 2fc4 Recovering log #522
-2025/08/24-00:46:14.432 2fc4 Delete type=0 #522
-2025/08/24-00:46:14.432 2fc4 Delete type=3 #520
+2025/08/31-09:57:29.727 2bc4 Log #535: 0 ops saved to Table #536 OK
+2025/08/31-09:57:29.727 2bc4 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-items/000535.log: OK
+2025/08/31-09:57:29.730 2bc4 Table #532: 1101 entries OK
+2025/08/31-09:57:29.732 2bc4 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-items/MANIFEST-000533: OK
+2025/08/31-09:57:29.734 2bc4 **** Repaired leveldb D:\FoundryVTT\Data\worlds\lancer-games\packs\npc-items; recovered 1 files; 611248 bytes. Some data may have been lost. ****

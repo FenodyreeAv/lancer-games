@@ -1,3 +1,4 @@
-2025/08/24-00:46:14.067 92c Recovering log #487
-2025/08/24-00:46:14.072 92c Delete type=0 #487
-2025/08/24-00:46:14.073 92c Delete type=3 #485
+2025/08/31-09:57:29.193 4b30 Log #498: 0 ops saved to Table #499 OK
+2025/08/31-09:57:29.193 4b30 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/cards/000498.log: OK
+2025/08/31-09:57:29.195 4b30 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/cards/MANIFEST-000496: OK
+2025/08/31-09:57:29.198 4b30 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****

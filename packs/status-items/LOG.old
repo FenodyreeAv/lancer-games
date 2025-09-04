@@ -1,3 +1,5 @@
-2025/08/24-00:46:14.439 67c Recovering log #514
-2025/08/24-00:46:14.442 67c Delete type=0 #514
-2025/08/24-00:46:14.443 67c Delete type=3 #512
+2025/08/31-09:57:29.747 2bc4 Log #527: 0 ops saved to Table #528 OK
+2025/08/31-09:57:29.747 2bc4 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\status-items/000527.log: OK
+2025/08/31-09:57:29.747 2bc4 Table #524: 22 entries OK
+2025/08/31-09:57:29.750 2bc4 Archiving D:\FoundryVTT\Data\worlds\lancer-games\packs\status-items/MANIFEST-000525: OK
+2025/08/31-09:57:29.752 2bc4 **** Repaired leveldb D:\FoundryVTT\Data\worlds\lancer-games\packs\status-items; recovered 1 files; 7588 bytes. Some data may have been lost. ****

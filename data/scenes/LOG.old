@@ -1,3 +1,5 @@
-2025/08/24-00:46:14.151 2fc4 Recovering log #829
-2025/08/24-00:46:14.155 2fc4 Delete type=0 #829
-2025/08/24-00:46:14.155 2fc4 Delete type=3 #826
+2025/08/31-09:57:29.377 4b30 Log #842: 0 ops saved to Table #845 OK
+2025/08/31-09:57:29.377 4b30 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/scenes/000842.log: OK
+2025/08/31-09:57:29.380 4b30 Table #844: 1785 entries OK
+2025/08/31-09:57:29.382 4b30 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/scenes/MANIFEST-000840: OK
+2025/08/31-09:57:29.384 4b30 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/scenes; recovered 1 files; 705394 bytes. Some data may have been lost. ****
