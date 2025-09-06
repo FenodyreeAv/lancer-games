@@ -1,5 +1,1 @@
-2025/08/31-09:57:29.310 2bc4 Log #539: 0 ops saved to Table #542 OK
-2025/08/31-09:57:29.311 2bc4 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/journal/000539.log: OK
-2025/08/31-09:57:29.311 2bc4 Table #541: 143 entries OK
-2025/08/31-09:57:29.313 2bc4 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/journal/MANIFEST-000537: OK
-2025/08/31-09:57:29.315 2bc4 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/journal; recovered 1 files; 112017 bytes. Some data may have been lost. ****
+2025/08/31-09:57:29.322 2bc4 Delete type=3 #1

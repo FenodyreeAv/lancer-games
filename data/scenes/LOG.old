@@ -1,5 +1,28 @@
-2025/08/31-09:57:29.377 4b30 Log #842: 0 ops saved to Table #845 OK
-2025/08/31-09:57:29.377 4b30 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/scenes/000842.log: OK
-2025/08/31-09:57:29.380 4b30 Table #844: 1785 entries OK
-2025/08/31-09:57:29.382 4b30 Archiving D:/FoundryVTT/Data/worlds/lancer-games/data/scenes/MANIFEST-000840: OK
-2025/08/31-09:57:29.384 4b30 **** Repaired leveldb D:/FoundryVTT/Data/worlds/lancer-games/data/scenes; recovered 1 files; 705394 bytes. Some data may have been lost. ****
+2025/08/31-09:57:29.392 4b30 Delete type=3 #1
+2025/08/31-15:14:20.178 2c58 Level-0 table #849: started
+2025/08/31-15:14:20.189 2c58 Level-0 table #849: 740940 bytes OK
+2025/08/31-15:14:20.190 2c58 Delete type=0 #847
+2025/08/31-15:40:46.878 2c58 Compacting 2@0 + 0@1 files
+2025/08/31-15:40:46.893 2c58 Generated table #850@0: 1875 keys, 748136 bytes
+2025/08/31-15:40:46.893 2c58 Compacted 2@0 + 0@1 files => 748136 bytes
+2025/08/31-15:40:46.894 2c58 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/31-15:40:46.894 2c58 Delete type=2 #844
+2025/08/31-15:40:46.895 2c58 Delete type=2 #849
+2025/08/31-16:12:43.047 2c58 Level-0 table #852: started
+2025/08/31-16:12:43.056 2c58 Level-0 table #852: 665943 bytes OK
+2025/08/31-16:12:43.058 2c58 Delete type=0 #848
+2025/08/31-23:21:37.900 2c58 Compacting 1@0 + 1@1 files
+2025/08/31-23:21:37.914 2c58 Generated table #853@0: 1874 keys, 749167 bytes
+2025/08/31-23:21:37.914 2c58 Compacted 1@0 + 1@1 files => 749167 bytes
+2025/08/31-23:21:37.915 2c58 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/31-23:21:37.915 2c58 Delete type=2 #850
+2025/08/31-23:21:37.915 2c58 Delete type=2 #852
+2025/09/01-09:39:28.078 2c58 Level-0 table #855: started
+2025/09/01-09:39:28.088 2c58 Level-0 table #855: 693819 bytes OK
+2025/09/01-09:39:28.090 2c58 Delete type=0 #851
+2025/09/01-20:23:56.890 2c58 Compacting 1@0 + 1@1 files
+2025/09/01-20:23:56.903 2c58 Generated table #856@0: 1861 keys, 745725 bytes
+2025/09/01-20:23:56.903 2c58 Compacted 1@0 + 1@1 files => 745725 bytes
+2025/09/01-20:23:56.904 2c58 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/01-20:23:56.904 2c58 Delete type=2 #853
+2025/09/01-20:23:56.904 2c58 Delete type=2 #855
