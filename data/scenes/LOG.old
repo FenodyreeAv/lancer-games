@@ -1,33 +1,13 @@
-2025/09/07-13:39:14.439 8b94 Recovering log #886
-2025/09/07-13:39:14.457 8b94 Delete type=0 #886
-2025/09/07-13:39:14.464 8b94 Delete type=3 #884
-2025/09/07-16:19:21.674 8cdc Level-0 table #891: started
-2025/09/07-16:19:21.809 8cdc Level-0 table #891: 725089 bytes OK
-2025/09/07-16:19:21.819 8cdc Delete type=0 #889
-2025/09/07-16:19:22.620 8cdc Compacting 1@0 + 1@1 files
-2025/09/07-16:19:22.661 8cdc Generated table #892@0: 2159 keys, 809121 bytes
-2025/09/07-16:19:22.661 8cdc Compacted 1@0 + 1@1 files => 809121 bytes
-2025/09/07-16:19:22.668 8cdc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/07-17:29:25.010 8cdc Level-0 table #894: started
-2025/09/07-17:29:25.032 8cdc Level-0 table #894: 770462 bytes OK
-2025/09/07-17:29:25.039 8cdc Delete type=2 #879
-2025/09/07-17:29:25.045 8cdc Delete type=0 #890
-2025/09/07-17:29:25.049 8cdc Delete type=2 #891
-2025/09/07-17:33:05.695 8cdc Compacting 1@0 + 1@1 files
-2025/09/07-17:33:05.722 8cdc Generated table #895@0: 2219 keys, 831678 bytes
-2025/09/07-17:33:05.722 8cdc Compacted 1@0 + 1@1 files => 831678 bytes
-2025/09/07-17:33:05.726 8cdc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/07-17:33:05.726 8cdc Delete type=2 #892
-2025/09/07-17:33:05.731 8cdc Delete type=2 #894
-2025/09/07-17:58:10.630 8cdc Level-0 table #897: started
-2025/09/07-17:58:10.668 8cdc Level-0 table #897: 802180 bytes OK
-2025/09/07-17:58:10.691 8cdc Delete type=0 #893
-2025/09/07-18:35:23.576 8cdc Compacting 1@0 + 1@1 files
-2025/09/07-18:35:23.603 8cdc Generated table #898@0: 2229 keys, 837167 bytes
-2025/09/07-18:35:23.603 8cdc Compacted 1@0 + 1@1 files => 837167 bytes
-2025/09/07-18:35:23.609 8cdc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/09/07-18:35:23.609 8cdc Delete type=2 #895
-2025/09/07-18:35:23.614 8cdc Delete type=2 #897
-2025/09/07-18:41:42.356 8cdc Level-0 table #900: started
-2025/09/07-18:41:42.372 8cdc Level-0 table #900: 835168 bytes OK
-2025/09/07-18:41:42.377 8cdc Delete type=0 #896
+2025/09/28-10:43:41.908 4664 Recovering log #923
+2025/09/28-10:43:41.912 4664 Delete type=0 #923
+2025/09/28-10:43:41.913 4664 Delete type=3 #922
+2025/09/28-11:04:22.269 270c Level-0 table #927: started
+2025/09/28-11:04:22.269 270c Level-0 table #927: 0 bytes OK
+2025/09/28-11:04:22.271 270c Delete type=0 #925
+2025/09/28-11:04:22.276 270c Manual compaction at level-0 from '!scenes!0VeYKSCBGUdvSTHA' @ 72057594037927935 : 1 .. '!scenes.walls!sjtUp0l3dfJ3542F.zopGG2uliRdivbOa' @ 0 : 0; will stop at '!scenes.walls!sjtUp0l3dfJ3542F.zopGG2uliRdivbOa' @ 185299 : 1
+2025/09/28-11:04:22.276 270c Compacting 1@0 + 0@1 files
+2025/09/28-11:04:22.291 270c Generated table #928@0: 2242 keys, 841572 bytes
+2025/09/28-11:04:22.291 270c Compacted 1@0 + 0@1 files => 841572 bytes
+2025/09/28-11:04:22.293 270c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/28-11:04:22.293 270c Delete type=2 #920
+2025/09/28-11:04:22.353 270c Manual compaction at level-0 from '!scenes.walls!sjtUp0l3dfJ3542F.zopGG2uliRdivbOa' @ 185299 : 1 .. '!scenes.walls!sjtUp0l3dfJ3542F.zopGG2uliRdivbOa' @ 0 : 0; will stop at (end)
