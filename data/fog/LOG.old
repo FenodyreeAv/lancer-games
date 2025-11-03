@@ -1,3 +1,7 @@
-2025/09/28-11:11:28.417 45cc Recovering log #591
-2025/09/28-11:11:28.421 45cc Delete type=0 #591
-2025/09/28-11:11:28.421 45cc Delete type=3 #589
+2025/10/26-14:27:54.600 8e7c Recovering log #615
+2025/10/26-14:27:54.629 8e7c Delete type=0 #615
+2025/10/26-14:27:54.636 8e7c Delete type=3 #614
+2025/10/26-19:39:26.725 cc84 Level-0 table #619: started
+2025/10/26-19:39:26.725 cc84 Level-0 table #619: 0 bytes OK
+2025/10/26-19:39:26.731 cc84 Delete type=0 #617
+2025/10/26-19:39:26.756 cc84 Manual compaction at level-0 from '!fog!10loxWPuRtsXeCck' @ 72057594037927935 : 1 .. '!fog!xlR75iKUnylXNtX9' @ 0 : 0; will stop at (end)
