@@ -9,7 +9,7 @@
     "verified": "12.343"
   },
   "systemVersion": "2.11.1",
-  "lastPlayed": "Sun Nov 02 2025 00:58:47 GMT+0100 (Central European Standard Time)",
+  "lastPlayed": "Sun Nov 09 2025 02:48:54 GMT+0100 (Central European Standard Time)",
   "packs": [
     {
       "name": "pilot-items",
@@ -90,6 +90,6 @@
       "flags": {}
     }
   ],
-  "playtime": 978561,
+  "playtime": 983098,
   "background": "worlds/lancer-games/assets/scenes/the%20balut%20system.webp"
 }
